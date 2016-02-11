@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Oh Buoy</string>
+    <string name="command_input_text_hint">Where to Captain?</string>
+    <string name="report_location_button_text">Where art thou?</string>
+    <string name="captains_log">Captains Log</string>
+</resources>
